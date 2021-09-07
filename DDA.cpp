@@ -2,7 +2,7 @@
 #include<iostream>
 #include<math.h>
 #include<dos.h>
-
+//Trial
 using namespace std;
 int main ()
 {
